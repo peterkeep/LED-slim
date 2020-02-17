@@ -14,7 +14,7 @@ Just clone this to your themes folder (but first make sure there is no `.git` fo
 
 `git clone https://github.com/peterkeep/LED-slim.git ~/.themes`
 
-Then apply a theme You desire using Window Manager settings.
+Then apply the theme using the Window Manager settings.
 
 ## Credits
 
